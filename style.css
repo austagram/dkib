@@ -1,0 +1,33 @@
+
+@font-face {
+  font-family: 'AdorshoLipi';
+  src: url('font/AdorshoLipi.eot');
+  src: url('font/AdorshoLipi.woff') format('woff'),
+       url('font/AdorshoLipi.ttf') format('truetype'),
+       url('font/AdorshoLipi.svg#AdorshoLipi') format('svg'),
+       url('font/AdorshoLipi.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+body
+    {font-family:AdorshoLipi;
+	
+	
+
+	}
+	
+.hadi{font-size:19px;}
+.icon{font-family:'Times New Roman', 'arial';}
+.card-title{font-size:19px;}
+
+
+
+
+
+
+
+
+
+
